@@ -1,0 +1,57 @@
+Procedure QuickSort(l,r:integer); 
+var 
+
+i, j, d, z, a, x:integer;{Первая ошибка: переменная a описана НЕ КАК МАССИВ! Должно быть:
+ a:array[1..nmax] of integer;}
+
+BEGIN
+
+i:=l;
+
+j:=r;
+
+z:=(i+j);
+
+a:=a[z];
+
+while i<=j do
+
+begin
+
+while a[i]<d do
+
+i:=i+1;
+
+while a[j]>d do
+
+j=j-1;
+
+if i<=j
+
+then begin
+
+x:=a[i];
+
+a[i]:=a[j];
+
+a[j]:=x;
+
+i:=i+1;
+
+j:=j-1;
+
+end;
+
+end;
+
+if i<r
+
+then QuickSort(i,r);
+
+if i<j
+
+then QuickSort();
+
+readln()
+
+END.

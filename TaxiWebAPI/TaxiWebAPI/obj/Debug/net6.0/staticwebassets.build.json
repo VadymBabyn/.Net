@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gYdAElynjeqf6E5v18xqpNftrPyXEhIG6Kw39Q1tvGE=",
+  "Source": "TaxiWebAPI",
+  "BasePath": "_content/TaxiWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

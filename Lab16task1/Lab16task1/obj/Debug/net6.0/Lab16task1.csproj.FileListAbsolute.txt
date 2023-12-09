@@ -1,0 +1,15 @@
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\bin\Debug\net6.0\Lab16task1.exe
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\bin\Debug\net6.0\Lab16task1.deps.json
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\bin\Debug\net6.0\Lab16task1.runtimeconfig.json
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\bin\Debug\net6.0\Lab16task1.dll
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\bin\Debug\net6.0\Lab16task1.pdb
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\Lab16task1.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\Lab16task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\Lab16task1.AssemblyInfoInputs.cache
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\Lab16task1.AssemblyInfo.cs
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\Lab16task1.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\Lab16task1.dll
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\refint\Lab16task1.dll
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\Lab16task1.pdb
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\Lab16task1.genruntimeconfig.cache
+C:\Users\vadim\source\repos\Lab16task1\Lab16task1\obj\Debug\net6.0\ref\Lab16task1.dll

@@ -1,0 +1,16 @@
+C:\Users\Yan\source\repos\14.1\14.4\bin\Debug\14.4.exe.config
+C:\Users\Yan\source\repos\14.1\14.4\bin\Debug\14.4.exe
+C:\Users\Yan\source\repos\14.1\14.4\bin\Debug\14.4.pdb
+C:\Users\Yan\source\repos\14.1\14.4\obj\Debug\14.4.csproj.AssemblyReference.cache
+C:\Users\Yan\source\repos\14.1\14.4\obj\Debug\14.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yan\source\repos\14.1\14.4\obj\Debug\14.4.csproj.CoreCompileInputs.cache
+C:\Users\Yan\source\repos\14.1\14.4\obj\Debug\14.4.exe
+C:\Users\Yan\source\repos\14.1\14.4\obj\Debug\14.4.pdb
+C:\Users\Nastia\Desktop\14\14\14.1\14.4\bin\Debug\14.4.exe.config
+C:\Users\Nastia\Desktop\14\14\14.1\14.4\bin\Debug\14.4.exe
+C:\Users\Nastia\Desktop\14\14\14.1\14.4\bin\Debug\14.4.pdb
+C:\Users\Nastia\Desktop\14\14\14.1\14.4\obj\Debug\14.4.csproj.AssemblyReference.cache
+C:\Users\Nastia\Desktop\14\14\14.1\14.4\obj\Debug\14.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastia\Desktop\14\14\14.1\14.4\obj\Debug\14.4.csproj.CoreCompileInputs.cache
+C:\Users\Nastia\Desktop\14\14\14.1\14.4\obj\Debug\14.4.exe
+C:\Users\Nastia\Desktop\14\14\14.1\14.4\obj\Debug\14.4.pdb

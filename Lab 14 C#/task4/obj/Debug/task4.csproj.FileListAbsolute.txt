@@ -1,0 +1,8 @@
+C:\Users\pimoc\Desktop\лаба 14\14\14\с\task4\bin\Debug\task4.exe.config
+C:\Users\pimoc\Desktop\лаба 14\14\14\с\task4\bin\Debug\task4.exe
+C:\Users\pimoc\Desktop\лаба 14\14\14\с\task4\bin\Debug\task4.pdb
+C:\Users\pimoc\Desktop\лаба 14\14\14\с\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\pimoc\Desktop\лаба 14\14\14\с\task4\obj\Debug\task4.csproj.SuggestedBindingRedirects.cache
+C:\Users\pimoc\Desktop\лаба 14\14\14\с\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\pimoc\Desktop\лаба 14\14\14\с\task4\obj\Debug\task4.exe
+C:\Users\pimoc\Desktop\лаба 14\14\14\с\task4\obj\Debug\task4.pdb

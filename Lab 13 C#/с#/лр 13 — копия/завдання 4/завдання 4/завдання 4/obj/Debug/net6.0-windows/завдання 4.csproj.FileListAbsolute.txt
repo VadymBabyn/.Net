@@ -1,0 +1,51 @@
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.exe
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.deps.json
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.runtimeconfig.json
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.dll
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.pdb
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.csproj.AssemblyReference.cache
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання_4.Form1.resources
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.csproj.GenerateResource.cache
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.AssemblyInfoInputs.cache
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.AssemblyInfo.cs
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.csproj.CoreCompileInputs.cache
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.dll
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\refint\завдання 4.dll
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.pdb
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.genruntimeconfig.cache
+D:\c# лаби\лр 13\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\ref\завдання 4.dll
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.exe
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.deps.json
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.runtimeconfig.json
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.dll
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.pdb
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.csproj.AssemblyReference.cache
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання_4.Form1.resources
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.csproj.GenerateResource.cache
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.AssemblyInfoInputs.cache
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.AssemblyInfo.cs
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.csproj.CoreCompileInputs.cache
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.dll
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\refint\завдання 4.dll
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.pdb
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.genruntimeconfig.cache
+D:\учоба\2 курс\принципи пз\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\ref\завдання 4.dll
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.exe
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.deps.json
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.runtimeconfig.json
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.dll
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\bin\Debug\net6.0-windows\завдання 4.pdb
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.csproj.AssemblyReference.cache
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання_4.Form1.resources
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.csproj.GenerateResource.cache
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.AssemblyInfoInputs.cache
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.AssemblyInfo.cs
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.csproj.CoreCompileInputs.cache
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.dll
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\refint\завдання 4.dll
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.pdb
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\завдання 4.genruntimeconfig.cache
+C:\Users\pimoc\Desktop\лаба 13\с#\лр 13 — копия\завдання 4\завдання 4\завдання 4\obj\Debug\net6.0-windows\ref\завдання 4.dll

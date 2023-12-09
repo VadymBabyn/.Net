@@ -1,0 +1,14 @@
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\bin\Debug\netcoreapp3.1\Lab 16.4.exe
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\bin\Debug\netcoreapp3.1\Lab 16.4.deps.json
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\bin\Debug\netcoreapp3.1\Lab 16.4.runtimeconfig.json
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\bin\Debug\netcoreapp3.1\Lab 16.4.runtimeconfig.dev.json
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\bin\Debug\netcoreapp3.1\Lab 16.4.dll
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\bin\Debug\netcoreapp3.1\Lab 16.4.pdb
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\obj\Debug\netcoreapp3.1\Lab 16.4.csproj.AssemblyReference.cache
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\obj\Debug\netcoreapp3.1\Lab 16.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\obj\Debug\netcoreapp3.1\Lab 16.4.AssemblyInfoInputs.cache
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\obj\Debug\netcoreapp3.1\Lab 16.4.AssemblyInfo.cs
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\obj\Debug\netcoreapp3.1\Lab 16.4.csproj.CoreCompileInputs.cache
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\obj\Debug\netcoreapp3.1\Lab 16.4.dll
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\obj\Debug\netcoreapp3.1\Lab 16.4.pdb
+C:\Users\pimoc\Desktop\Lab 16\Lab 16 C#\Lab 16.4\obj\Debug\netcoreapp3.1\Lab 16.4.genruntimeconfig.cache

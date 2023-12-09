@@ -1,0 +1,86 @@
+E:\test\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe.config
+E:\test\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe
+E:\test\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.pdb
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.AssemblyReference.cache
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersForm.resources
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseOffersForm.resources
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Properties.Resources.resources
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.RealEstateOfficeMDI.resources
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.GenerateResource.cache
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.CoreCompileInputs.cache
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.exe
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.pdb
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandForm.resources
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseDemandForm.resources
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersSearchForm.resources
+E:\test\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandSerchForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe.config
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.pdb
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.AssemblyReference.cache
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandSerchForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersSearchForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseDemandForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseOffersForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Properties.Resources.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.RealEstateOfficeMDI.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.GenerateResource.cache
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.CoreCompileInputs.cache
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.exe
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.pdb
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.HelpsForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe.config
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.pdb
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.AssemblyReference.cache
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandSerchForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersSearchForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.HelpsForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseDemandForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseOffersForm.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Properties.Resources.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.RealEstateOfficeMDI.resources
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.GenerateResource.cache
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.CoreCompileInputs.cache
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.exe
+F:\Дипломна\StudentHELP\Курсовий проект, база данних для рієлторів\copy\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.pdb
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe.config
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.pdb
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.AssemblyReference.cache
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.SuggestedBindingRedirects.cache
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandForm.resources
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandSerchForm.resources
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersForm.resources
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersSearchForm.resources
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.HelpsForm.resources
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseDemandForm.resources
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseOffersForm.resources
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Properties.Resources.resources
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.RealEstateOfficeMDI.resources
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.GenerateResource.cache
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.CoreCompileInputs.cache
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.exe
+C:\Users\He3DoPoBiy\Desktop\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.pdb
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe.config
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.exe
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\bin\Debug\RealEstateOffice.pdb
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandForm.resources
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseDemandSerchForm.resources
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersForm.resources
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.BaseOffersSearchForm.resources
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.HelpsForm.resources
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseDemandForm.resources
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Forms.UpdateBaseOffersForm.resources
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.Properties.Resources.resources
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.RealEstateOfficeMDI.resources
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.GenerateResource.cache
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.exe
+C:\Users\vadim\Desktop\курсач\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.pdb

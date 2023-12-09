@@ -1,0 +1,16 @@
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\obj\Debug\netcoreapp3.1\laba_sharp16.2.csproj.AssemblyReference.cache
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\obj\Debug\netcoreapp3.1\laba_sharp16.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\obj\Debug\netcoreapp3.1\laba_sharp16.2.AssemblyInfoInputs.cache
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\obj\Debug\netcoreapp3.1\laba_sharp16.2.AssemblyInfo.cs
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\obj\Debug\netcoreapp3.1\laba_sharp16.2.csproj.CoreCompileInputs.cache
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\bin\Debug\netcoreapp3.1\laba_sharp16.2.exe
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\bin\Debug\netcoreapp3.1\laba_sharp16.2.deps.json
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\bin\Debug\netcoreapp3.1\laba_sharp16.2.runtimeconfig.json
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\bin\Debug\netcoreapp3.1\laba_sharp16.2.runtimeconfig.dev.json
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\bin\Debug\netcoreapp3.1\laba_sharp16.2.dll
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\bin\Debug\netcoreapp3.1\laba_sharp16.2.pdb
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\obj\Debug\netcoreapp3.1\laba_sharp16.2.csproj.CopyComplete
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\obj\Debug\netcoreapp3.1\laba_sharp16.2.dll
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\obj\Debug\netcoreapp3.1\laba_sharp16.2.pdb
+D:\лаби\c#\laba_sharp16\laba_sharp16.2\obj\Debug\netcoreapp3.1\laba_sharp16.2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\User\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+d:\projects\C#\Files\TextFile1\AboutTextFiles\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+d:\projects\C#\Files\TextFile1\AboutTextFiles\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+d:\projects\C#\Files\TextFile1\AboutTextFiles\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+d:\projects\C#\Files\TextFile1\AboutTextFiles\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+d:\projects\C#\Files\TextFile1\AboutTextFiles\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+d:\projects\C#\Files\TextFile1\AboutTextFiles\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+d:\projects\C#\Files\TextFile1\AboutTextFiles\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

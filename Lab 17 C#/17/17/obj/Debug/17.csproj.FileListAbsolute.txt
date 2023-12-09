@@ -1,0 +1,24 @@
+C:\Users\Yan\source\repos\17\17\bin\Debug\17.exe.config
+C:\Users\Yan\source\repos\17\17\bin\Debug\17.exe
+C:\Users\Yan\source\repos\17\17\bin\Debug\17.pdb
+C:\Users\Yan\source\repos\17\17\obj\Debug\17.csproj.AssemblyReference.cache
+C:\Users\Yan\source\repos\17\17\obj\Debug\17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yan\source\repos\17\17\obj\Debug\17.csproj.CoreCompileInputs.cache
+C:\Users\Yan\source\repos\17\17\obj\Debug\17.exe
+C:\Users\Yan\source\repos\17\17\obj\Debug\17.pdb
+C:\Users\Nastia\Desktop\Шиян\17lab_30В\C#\17\17\bin\Debug\17.exe.config
+C:\Users\Nastia\Desktop\Шиян\17lab_30В\C#\17\17\bin\Debug\17.exe
+C:\Users\Nastia\Desktop\Шиян\17lab_30В\C#\17\17\bin\Debug\17.pdb
+C:\Users\Nastia\Desktop\Шиян\17lab_30В\C#\17\17\obj\Debug\17.csproj.AssemblyReference.cache
+C:\Users\Nastia\Desktop\Шиян\17lab_30В\C#\17\17\obj\Debug\17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastia\Desktop\Шиян\17lab_30В\C#\17\17\obj\Debug\17.csproj.CoreCompileInputs.cache
+C:\Users\Nastia\Desktop\Шиян\17lab_30В\C#\17\17\obj\Debug\17.exe
+C:\Users\Nastia\Desktop\Шиян\17lab_30В\C#\17\17\obj\Debug\17.pdb
+C:\Users\vadim\Desktop\.Net\Lab 17 C#\17\17\bin\Debug\17.exe.config
+C:\Users\vadim\Desktop\.Net\Lab 17 C#\17\17\bin\Debug\17.exe
+C:\Users\vadim\Desktop\.Net\Lab 17 C#\17\17\bin\Debug\17.pdb
+C:\Users\vadim\Desktop\.Net\Lab 17 C#\17\17\obj\Debug\17.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\.Net\Lab 17 C#\17\17\obj\Debug\17.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\Desktop\.Net\Lab 17 C#\17\17\obj\Debug\17.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\.Net\Lab 17 C#\17\17\obj\Debug\17.exe
+C:\Users\vadim\Desktop\.Net\Lab 17 C#\17\17\obj\Debug\17.pdb

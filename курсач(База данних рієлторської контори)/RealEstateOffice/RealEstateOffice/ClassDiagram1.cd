@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RealEstateOffice.Forms.BaseDemandForm">
+    <Position X="1.25" Y="1.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAEJAAMkISAFABEUmkHgABAKACAASAAAiAAEAECKiAA=</HashCode>
+      <FileName>Forms\BaseDemandForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstateOffice.Forms.BaseDemandSerchForm">
+    <Position X="4" Y="9" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>UAEQCEogBDIAQBAAIgDAAAAKAAAAAAAIAKAEAQCAiAA=</HashCode>
+      <FileName>Forms\BaseDemandSerchForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstateOffice.Forms.BaseOffersForm">
+    <Position X="1" Y="6.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>UEMKAAIlISgDIBAQmBHAgAATAACQCgEMgAAAABCAiIA=</HashCode>
+      <FileName>Forms\BaseOffersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstateOffice.Forms.BaseOffersSearchForm">
+    <Position X="4" Y="1.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>UQEAAEogBDIDQBAAIAHAAAATAAAAAIAoAKAAAQCAiAI=</HashCode>
+      <FileName>Forms\BaseOffersSearchForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstateOffice.Forms.UpdateBaseDemandForm">
+    <Position X="7" Y="9" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kAFBBAIEISAlABEQAAGgAAASACAASAAAiAAAAACKiAA=</HashCode>
+      <FileName>Forms\UpdateBaseDemandForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstateOffice.Forms.UpdateBaseOffersForm">
+    <Position X="4.5" Y="5.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>0EFCBAIFISghABAQgBGBAAASAAAQCAEMAAAAABCAiIA=</HashCode>
+      <FileName>Forms\UpdateBaseOffersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstateOffice.RealEstateOfficeMDI">
+    <Position X="6.75" Y="1.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAgAgAACDAABAASCIGAAAACAAAABAAAgAAAAAAAAAA=</HashCode>
+      <FileName>RealEstateOfficeMDI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstateOffice.Providers.BaseDemandProvider">
+    <Position X="9.75" Y="1.5" Width="1.75" />
+    <NestedTypes>
+      <Class Name="RealEstateOffice.Providers.BaseDemandProvider.BaseDemandListComparer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Providers\BaseDemandProvider.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Providers\BaseDemandProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstateOffice.Providers.BaseOffersProvider">
+    <Position X="2" Y="11" Width="1.5" />
+    <NestedTypes>
+      <Class Name="RealEstateOffice.Providers.BaseOffersProvider.BaseOffersListComparer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Providers\BaseOffersProvider.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Providers\BaseOffersProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseDemand">
+    <Position X="7" Y="5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAgCAAAIgAKECEAAAAAAACQAAAAAgCAUCAAAI=</HashCode>
+      <FileName>Providers\BaseDemandProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseOffers">
+    <Position X="9.75" Y="7" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAQAAgQQAAIAQCkCEAEAAAEAAAAACAABABUBAAAA=</HashCode>
+      <FileName>Providers\BaseOffersProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="9.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

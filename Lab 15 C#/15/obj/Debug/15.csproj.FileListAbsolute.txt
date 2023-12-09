@@ -1,0 +1,32 @@
+C:\Users\Yan\source\repos\15.1\15\obj\Debug\15.csproj.AssemblyReference.cache
+C:\Users\Yan\source\repos\15.1\15\obj\Debug\15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yan\source\repos\15.1\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\Yan\source\repos\15.1\15\bin\Debug\15.exe.config
+C:\Users\Yan\source\repos\15.1\15\bin\Debug\15.exe
+C:\Users\Yan\source\repos\15.1\15\bin\Debug\15.pdb
+C:\Users\Yan\source\repos\15.1\15\obj\Debug\15.exe
+C:\Users\Yan\source\repos\15.1\15\obj\Debug\15.pdb
+C:\Users\pimoc\Desktop\Lab 15\15\с\15\bin\Debug\15.exe.config
+C:\Users\pimoc\Desktop\Lab 15\15\с\15\bin\Debug\15.exe
+C:\Users\pimoc\Desktop\Lab 15\15\с\15\bin\Debug\15.pdb
+C:\Users\pimoc\Desktop\Lab 15\15\с\15\obj\Debug\15.csproj.AssemblyReference.cache
+C:\Users\pimoc\Desktop\Lab 15\15\с\15\obj\Debug\15.csproj.SuggestedBindingRedirects.cache
+C:\Users\pimoc\Desktop\Lab 15\15\с\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\pimoc\Desktop\Lab 15\15\с\15\obj\Debug\15.exe
+C:\Users\pimoc\Desktop\Lab 15\15\с\15\obj\Debug\15.pdb
+C:\Users\pimoc\Desktop\Lab 15\15\Lab 15 C#\15\bin\Debug\15.exe.config
+C:\Users\pimoc\Desktop\Lab 15\15\Lab 15 C#\15\bin\Debug\15.exe
+C:\Users\pimoc\Desktop\Lab 15\15\Lab 15 C#\15\bin\Debug\15.pdb
+C:\Users\pimoc\Desktop\Lab 15\15\Lab 15 C#\15\obj\Debug\15.csproj.AssemblyReference.cache
+C:\Users\pimoc\Desktop\Lab 15\15\Lab 15 C#\15\obj\Debug\15.csproj.SuggestedBindingRedirects.cache
+C:\Users\pimoc\Desktop\Lab 15\15\Lab 15 C#\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\pimoc\Desktop\Lab 15\15\Lab 15 C#\15\obj\Debug\15.exe
+C:\Users\pimoc\Desktop\Lab 15\15\Lab 15 C#\15\obj\Debug\15.pdb
+C:\Users\vadim\Desktop\пкпз\Lab 15\15\Lab 15 C#\15\bin\Debug\15.exe.config
+C:\Users\vadim\Desktop\пкпз\Lab 15\15\Lab 15 C#\15\bin\Debug\15.exe
+C:\Users\vadim\Desktop\пкпз\Lab 15\15\Lab 15 C#\15\bin\Debug\15.pdb
+C:\Users\vadim\Desktop\пкпз\Lab 15\15\Lab 15 C#\15\obj\Debug\15.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\пкпз\Lab 15\15\Lab 15 C#\15\obj\Debug\15.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\Desktop\пкпз\Lab 15\15\Lab 15 C#\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\пкпз\Lab 15\15\Lab 15 C#\15\obj\Debug\15.exe
+C:\Users\vadim\Desktop\пкпз\Lab 15\15\Lab 15 C#\15\obj\Debug\15.pdb
